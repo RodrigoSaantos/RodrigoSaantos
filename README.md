@@ -5,7 +5,7 @@ Sou um entusiasta no mundo da programação.
 
  :rocket:  &nbsp; Não trabalho com **Tecnologia** no momento, apenas em projetos pessoais.
  <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando React e Back-end usando Node 
- <br/> :blush: &nbsp; Meus princípais projetos: [resumobook.com.br](https://resumobook.com.br) & [Comparatudo.com](https://comparatudo.com)
+ <br/> :blush: &nbsp; Meus princípais projetos: [resumobook.com.br](https://resumobook.com.br) & [comparatudo.com](https://comparatudo.com)
  <br/> :computer: &nbsp; Minha stack: ReactJS, Node.js & Typescript
  <br/> 💬  &nbsp; Sobre mim: A procura do próximo nível de forma constante!
  <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-RodrigoSantos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigo-dos-santos-silva-637225156/)](https://www.linkedin.com/in/rodrigo-dos-santos-silva-637225156/) 
