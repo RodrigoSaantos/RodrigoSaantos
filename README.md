@@ -8,7 +8,7 @@ Sou um entusiasta no mundo da programação.
  <br/> :blush: &nbsp; Meus princípais projetos: [resumobook.com.br](https://resumobook.com.br) & [comparatudo.com](https://comparatudo.com)
  <br/> :computer: &nbsp; Minha stack: ReactJS, Node.js & Typescript
  <br/> 💬  &nbsp; Sobre mim: A procura do próximo nível de forma constante!
- <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-RodrigoSantos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigo-dos-santos-silva-637225156/)](https://www.linkedin.com/in/rodrigo-dos-santos-silva-637225156/) 
+ <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-RodrigoSantos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigosaantos/)](https://www.linkedin.com/in/rodrigosaantos/) 
 | 
 [![Gmail Badge](https://img.shields.io/badge/-contato.rodrigosaantos@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contato.rodrigosaantos@gmail.com)](mailto:contato.rodrigosaantos@gmail.com)
 
