@@ -1,14 +1,14 @@
 # Rodrigo Santos
 
-## Olá pessoal 👋
-Sou um entusiasta no mundo da programação.
+## Hello world 👋
+I am an enthusiast in the world of programming.
 
- :rocket:  &nbsp; Não trabalho com **Tecnologia** no momento, apenas em projetos pessoais.
- <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando React e Back-end usando Node 
- <br/> :blush: &nbsp; Meus princípais projetos: [resumobook.com.br](https://resumobook.com.br) & [comparatudo.com](https://comparatudo.com)
- <br/> :computer: &nbsp; Minha stack: ReactJS, Node.js & Typescript
- <br/> 💬  &nbsp; Sobre mim: A procura do próximo nível de forma constante!
- <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-RodrigoSantos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigosaantos/)](https://www.linkedin.com/in/rodrigosaantos/) 
+ :rocket:  &nbsp; I don't work with **Technology** at the moment, only on personal projects.
+ <br/> :purple_heart: &nbsp; Looking to collaborate with projects in Front-end using ReactJS and Back-end using Node.js 
+ <br/> :blush: &nbsp; My main projects: [resumobook.com.br](https://resumobook.com.br) & [comparatudo.com](https://comparatudo.com)
+ <br/> :computer: &nbsp; My stack: ReactJS, Node.js & Typescript
+ <br/> 💬  &nbsp; About me: Constantly looking for the next level!
+ <br/> :email: &nbsp; Contact me: [![Linkedin Badge](https://img.shields.io/badge/-RodrigoSantos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigosaantos/)](https://www.linkedin.com/in/rodrigosaantos/) 
 | 
 [![Gmail Badge](https://img.shields.io/badge/-contato.rodrigosaantos@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contato.rodrigosaantos@gmail.com)](mailto:contato.rodrigosaantos@gmail.com)
 
